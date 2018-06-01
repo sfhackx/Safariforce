@@ -11,6 +11,6 @@ Universal Explorers is headed for adventure...virtually! Their researchers are o
 
 ### Supported Learning
 
-- Einstein Vision (see [related Trailhead module](https://trailhead.salesforce.com/en/trails/get_smart_einstein/projects/predictive_vision_apex)!)
+- Einstein Vision (see <a href="https://trailhead.salesforce.com/en/trails/get_smart_einstein/projects/predictive_vision_apex" target="_blank">related Trailhead project</a>!)
 - Lightning Components
 - Process Builder
